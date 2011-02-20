@@ -14,4 +14,6 @@
 CouchDB.Record = SC.Record.extend(
 /** @scope CouchDB.Record.prototype */ {
 
+  primaryKey: '_id'
+
 }) ;
