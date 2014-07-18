@@ -1,12 +1,13 @@
 // ==========================================================================
 // Project:   CouchDB
-// Copyright: ©2010 Devin Torres
+// Copyright: ©2010 Devin Torres, 
+//            ©2011 Alexey Shevchenko
 // ==========================================================================
 /*globals CouchDB */
 
 /** @namespace
 
-  My cool new framework.  Describe your framework.
+  CouchDB DataSource framework.
   
   @extends SC.Object
 */

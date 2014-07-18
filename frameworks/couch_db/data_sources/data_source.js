@@ -1,6 +1,7 @@
 // ==========================================================================
 // Project:   CouchDB.DataSource
-// Copyright: ©2010 Devin Torres
+// Copyright: ©2010 Devin Torres, 
+//            ©2011 Alexey Shevchenko
 // ==========================================================================
 /*globals CouchDB */
 
